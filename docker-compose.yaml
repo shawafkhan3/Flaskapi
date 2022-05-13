@@ -1,6 +1,6 @@
 version: '3'
 services:
-  flaskapi:
+  flaskapi1:
     image: mcr.microsoft.com/oss/bitnami/redis:6.0.8
     container_name: flaskapp
     environment:
